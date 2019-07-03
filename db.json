@@ -1,0 +1,13 @@
+{
+
+"status" : "success",
+
+"error" :  {
+
+  "message": "Thanks for the feedback!",
+
+  "details": "We’re working on making your results more relevant."
+
+   }
+
+}
